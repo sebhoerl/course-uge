@@ -1,0 +1,7 @@
+*.csv
+*.gpkg
+*.parquet
+*.CSV
+*.zip
+*.7z
+CONTOURS*
