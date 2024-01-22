@@ -1,4 +1,7 @@
 *.csv
+*.poly
+*.osm.pbf
+*.osm
 *.gpkg
 *.parquet
 *.CSV
