@@ -38,3 +38,17 @@ Course at Université Gustave Eiffel, Spring 2024
 
 - Go to http://download.geofabrik.de/europe/france/ile-de-france.html
 - Download the data in `.osm.pbf` format
+
+## Tools needed
+
+**Java JDK**
+
+- To run the Java code, you need to have a Java JDK installed on your system. A good choice is the Adpot OpenJDK, at least in version 17: https://adoptopenjdk.net/releases.html
+
+**osmosis**
+
+- *osmosis* is a Java-based tool to extract and convert OpenStreetMap data. It can be downloaded here: https://github.com/openstreetmap/osmosis/releases
+
+**Java IDE**
+
+- While you can run the Java example from the command line, it is easier using a graphical environment. You may work with *Eclipse Java*, *IntelliJ*, *VisualStudio Code* with the respective extensions or any other.
