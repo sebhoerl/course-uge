@@ -1,8 +1,0 @@
-*_output
-.classpath
-.project
-.settings
-matsim_network.*
-*.gpkg
-*.xml
-*.pbf
