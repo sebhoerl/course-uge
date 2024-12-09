@@ -11,3 +11,5 @@ dependencies:
   - pyarrow=14.0.2
   - scikit-learn=1.3.2
   - geopandas=0.14.2
+  - osmium-tools=1.16.0
+  - osmnx=1.8.1
