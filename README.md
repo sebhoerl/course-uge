@@ -1,6 +1,6 @@
 # Large-scale models and simulation methods
 
-Course at Université Gustave Eiffel, December 2024
+Course at Université Gustave Eiffel, Autumn 2025
 
 ## Useful links
 
