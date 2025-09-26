@@ -4,8 +4,8 @@ Course at Université Gustave Eiffel, December 2024
 
 ## Useful links
 
-- [Link to the course slides](https://slides.com/sebastianhorl/large-scale-models-and-simulation-methods-dec24)
-- [Link to the course project description](https://docs.google.com/document/d/19ZPWiEWYDW46X-aF28o4Q5A3vwyISXk8d3yF-eUo2_M/edit?usp=sharing)
+- [Link to the course slides](https://slides.com/sebastianhorl/large-scale-models-and-simulation-methods-2025)
+- [Link to the course project description](https://docs.google.com/document/d/13DhsXpPvwkl3DJ44_27ggcfgUR4btXn6wOUFkeoF6N4/edit?usp=sharing)
 
 ## Data needed
 
