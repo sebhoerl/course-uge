@@ -14,3 +14,4 @@ dependencies:
   - osmium-tool=1.16.0
   - osmnx=1.8.1
   - tqdm=4.67.1
+  - pyrosm=0.6.2
